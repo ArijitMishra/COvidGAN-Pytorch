@@ -1,0 +1,2 @@
+# CovidGAN-Pytorch
+I created a project called CovidGAN as part of my studies. CovidGAN is a free implementation of the ACGAN (auxiliary classifier generative adversarial network) designed to generate chest x-ray images to improve the detection of Covid-19 using convolutional neural networks (CNNs). You can find the research paper of this project at the following link: https://arxiv.org/abs/2103.05094
